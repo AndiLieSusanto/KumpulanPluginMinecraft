@@ -1,0 +1,12 @@
+main: com.andisusanto.safetrade.Safetrade
+version: 1.0
+name: Safetrade
+author: Andi Liewantoro Susanto
+description: Trade Safe! No scam!
+commands:
+ Safetrade trade <target>:
+  description:
+   trade with target entity
+ Safetrade help:
+  description:
+   show all Safetrade Commands

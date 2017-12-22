@@ -1,0 +1,9 @@
+main: andi.sicentung.coba.coba
+version: 1.0
+name: Tutorial_Plugin
+
+commands:
+ whoami:
+  description: lol
+ whoareyou:
+  description: what?
